@@ -1,0 +1,29 @@
+@import-normalize;
+
+.title {
+  margin: 0;
+  padding: 120px 0 0 0;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  font-family: "Amatic SC", Arial;
+  font-weight: 400;
+  font-size: 80px;
+}
+
+.header {
+  min-height: 300px;
+  margin: 0 auto;
+  width: 100%;
+  /* max-width: 1600px; */
+
+  background-image: linear-gradient(
+      to left,
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(../../img/bg-cover.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
