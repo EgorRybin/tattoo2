@@ -1,0 +1,22 @@
+.box {
+  display: flex;
+  max-width: 500px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 504px;
+  padding:24px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 680px) {
+  .wrapper {
+max-width: 1200px;
+  }
+}
+.arrow {
+    fill: #03a9f4;
+    color: #03a9f4;
+}

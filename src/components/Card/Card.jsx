@@ -1,6 +1,7 @@
+import { Link } from "react-router-dom";
 import css from "./Card.module.css";
 
-const Card = ({ title, description, link, img }) => {
+const Card = ({ title, description, id, img }) => {
   return (
     <>
       <div className={css.border}></div>
@@ -11,14 +12,9 @@ const Card = ({ title, description, link, img }) => {
         </div>
         <div className={css.imgBox}>
           <img className={css.img} src={img} alt={title} />
-          <a
-            className={css.link}
-            href={link}
-            target="blank"
-            aria-label="get a tattoo design"
-          >
-            get a tattoo design
-          </a>
+          <Link to={`/${id}`} className={css.link}>
+            read more
+          </Link>
         </div>
       </div>
     </>

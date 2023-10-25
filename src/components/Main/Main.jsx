@@ -1,18 +1,22 @@
 import Card from "../Card/Card";
 import css from "./Main.module.css";
-// import Reveal from "react-reveal/Reveal";
 
 const Main = ({ data }) => {
   return (
-    <section className={css.container}>
+    <main className={css.main}>
       <ul className={css.list}>
         {data.map((d) => (
           <li className={css.item} key={d.id}>
-            <Card title={d.title} description={d.description} link={d.link} img={d.img} />
+            <Card
+              title={d.title}
+              description={d.description}
+              id={d.id}
+              img={d.titleImg}
+            />
           </li>
         ))}
       </ul>
-    </section>
+    </main>
   );
 };
 
