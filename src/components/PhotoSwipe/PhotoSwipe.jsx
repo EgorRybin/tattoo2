@@ -2,7 +2,7 @@ import { Gallery, Item } from "react-photoswipe-gallery";
 import "photoswipe/dist/photoswipe.css";
 import css from "./PhotoSwipe.module.css";
 
-const MyGallery = ({ products }) => {
+const PhotoSwipe = ({ products }) => {
   return (
     <Gallery>
       <div className={css.gallery}>
@@ -31,4 +31,4 @@ const MyGallery = ({ products }) => {
   );
 };
 
-export default MyGallery;
+export default PhotoSwipe;
