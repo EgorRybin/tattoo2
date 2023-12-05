@@ -226,14 +226,14 @@ const data = [
         height: "960",
         alt: "tattoo",
       },
-      {
-        id: "4",
-        img: "https://img.freepik.com/free-photo/happy-bare-man-with-fat-stomach-tattooed-belly-enjoys-listening-new-song-headphones-raises-arms-clenches-fists-moves-with-rthythm-feels-carefree-enjoys-fantastic-bits-poses-indoor_273609-40131.jpg?w=1380&t=st=1701524160~exp=1701524760~hmac=2f8356aaff95951c7c4f5aa3221e7c1d7b0e7f654dcc77a85e279af159fd497d",
-        thumbnailImg: "",
-        width: "1000",
-        height: "667",
-        alt: "tattoo",
-      },
+      // {
+      //   id: "4",
+      //   img: "https://img.freepik.com/free-photo/happy-bare-man-with-fat-stomach-tattooed-belly-enjoys-listening-new-song-headphones-raises-arms-clenches-fists-moves-with-rthythm-feels-carefree-enjoys-fantastic-bits-poses-indoor_273609-40131.jpg?w=1380&t=st=1701524160~exp=1701524760~hmac=2f8356aaff95951c7c4f5aa3221e7c1d7b0e7f654dcc77a85e279af159fd497d",
+      //   thumbnailImg: "",
+      //   width: "1000",
+      //   height: "667",
+      //   alt: "tattoo",
+      // },
     ],
   },
   {
@@ -294,7 +294,7 @@ const data = [
     ],
   },
   {
-    title: "PHOTO REALISM PORTREIT TATTOOS",
+    title: "PHOTO REALISM PORTRAIT TATTOOS",
     description:
       "Photorealism portrait tattoos aim to replicate photographic detail on the skin. Artists use intricate shading and precise linework to capture lifelike features, expressions, and textures. These tattoos can be grayscale or color, with a strong emphasis on light, shadow, and accurate proportions. Typically larger in size and placed on spacious body areas, such as the back or chest, photorealism portraits require expert skill and multiple sessions for meticulous detailing. Popular for commemorating loved ones, these tattoos offer a lasting and realistic tribute through artistry and attention to detail.",
     fullPreDescription:
@@ -313,16 +313,16 @@ const data = [
       "These tattoos are popular choices for commemorating loved ones, including family members, friends, or beloved pets. Clients often choose subjects with personal significance to create a lasting and realistic tribute.",
     id: "8",
     titleImg:
-      "https://img.freepik.com/free-photo/high-fashion-look-glamour-closeup-portrait-beautiful-black-american-woman-with-tattoo-back-bright-makeup_158538-9534.jpg?w=740&t=st=1701517657~exp=1701518257~hmac=d4dc7487a6ad6146f7aef33c2f08127ed86d8772f30c95dd99bb320f356226b2",
+      "https://images.unsplash.com/photo-1590246814883-55516d8c2afd?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     img: [
-      {
-        id: "1",
-        img: "https://img.freepik.com/free-photo/high-fashion-look-glamour-closeup-portrait-beautiful-black-american-woman-with-tattoo-back-bright-makeup_158538-9534.jpg?w=740&t=st=1701517657~exp=1701518257~hmac=d4dc7487a6ad6146f7aef33c2f08127ed86d8772f30c95dd99bb320f356226b2",
-        thumbnailImg: "",
-        width: "640",
-        height: "1000",
-        alt: "tattoo",
-      },
+      // {
+      //   id: "1",
+      //   img: "https://img.freepik.com/free-photo/high-fashion-look-glamour-closeup-portrait-beautiful-black-american-woman-with-tattoo-back-bright-makeup_158538-9534.jpg?w=740&t=st=1701517657~exp=1701518257~hmac=d4dc7487a6ad6146f7aef33c2f08127ed86d8772f30c95dd99bb320f356226b2",
+      //   thumbnailImg: "",
+      //   width: "640",
+      //   height: "1000",
+      //   alt: "tattoo",
+      // },
       {
         id: "2",
         img: "https://images.unsplash.com/photo-1590246814883-55516d8c2afd?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",

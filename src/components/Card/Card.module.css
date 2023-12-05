@@ -80,6 +80,7 @@
   text-decoration: none;
   transition-duration: 250ms;
 }
+
 .link:hover {
   color: rgb(255, 178, 178);
   -webkit-box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.1), 0 -1px 0 rgba(0, 0, 0, 0.07);

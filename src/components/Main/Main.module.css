@@ -8,9 +8,20 @@
   padding: 0;
   list-style: none;
 }
+
+@media screen and (min-width: 680px) {
+  .item:nth-child(2n) > section {
+    flex-direction: row-reverse;
+  }
+}
+
+@media screen and (min-width: 680px) {
+  .item:nth-child(2n) article {
+    padding: 0 0 0 32px;
+  }
+}
+
 .main {
-  /* flex: 1 1 auto; */
-  /* flex-grow: 1; */
   max-width: 1200px;
   padding: 24px;
   margin: 0 auto;
