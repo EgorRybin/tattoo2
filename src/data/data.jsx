@@ -16,6 +16,28 @@ const data = [
     ],
     fullPostDescription:
       "Japanese tattoos are celebrated for their intricate details, vibrant colors, and rich symbolism, making them a unique and revered form of body art with deep cultural roots.",
+    tattooHistory:
+      "Centuries of symbolic ink: The Rich Legacy of Japanese Tattooing While Western tattoo culture has only recently gained mainstream popularity, decorative body art has a long, storied history in Asian cultures like Japan, where intricate designs interwoven with legend and meaning have graced the skin since time immemorial. Early beginnings Unlike in the West, Japanese tattoos did not originate with traveling sailors, but rather within a social class system that associated elaborate full-body ink with criminals and outcasts. Over several hundred years, these forbidden markings evolved into complex, stylized art forms that eventually gained a revered reputation. Master horishi tattooists perfected intricate designs featuring dragons, waves, tigers, samurai, demons, flowers, and figures from Japanese myth and folklore. Ink masters labored extensively to recreate fluid images on bodies by hand, drawing on the aesthetics of scroll paintings and ukiyo-e woodblock prints. Deep symbolism Beyond the superficial, philosophical Asian cultures imbued tattoo imagery with deep symbolism. Background context and delicate contours were as important as the subjects depicted to represent core values such as courage, wisdom, strength, and protection. From mighty guardian creatures to serene botanical elements, balanced compositions also aesthetically merged man and nature. Connections to Crime While Japanese tattoos resonated deeply as enduring mobile works of art that protected the wearer with lucky charms, they also maintained close ties to the seedy underworld. Extensive body suit designs often indicated connections to the notorious Yakuza, the Japanese mafia. This further reinforced the stigma. A global influence But as the methods modernized, the fascination spread overseas. Now, as accessibility expands, Asian tattooing's symbolic legacy continues to inspire outsider devotees worldwide. And as stigma recedes to reveal more history, there promises to be even more to learn from this integral genre regarding tattoos' longstanding imprint on humanity.",
+    artists: [
+      {
+        name: "Horiyoshi III",
+        description: "",
+        picture: "",
+        website: "",
+      },
+      {
+        name: "Shige",
+        description: "",
+        picture: "",
+        website: "",
+      },
+      {
+        name: "Horitomo",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "2",
     titleImg:
       "https://images.pexels.com/photos/2183131/pexels-photo-2183131.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -64,6 +86,15 @@ const data = [
     ],
     fullPostDescription:
       "Minimalist tattoos have gained popularity for their subtlety and ability to convey powerful messages in a discreet and stylish manner. They are often chosen by individuals who appreciate a clean and timeless aesthetic or those who are getting their first tattoo and prefer a more subtle approach.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "3",
     titleImg:
       "https://images.unsplash.com/photo-1570168983832-8989dae1522e?q=80&w=2081&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -120,6 +151,15 @@ const data = [
     ],
     fullPostDescription:
       "New School tattoos appeal to individuals who appreciate a more contemporary and dynamic aesthetic. The style is often chosen by those who want their tattoos to stand out and make a bold statement. While the roots of New School tattoos can be traced back to the late 20th century, the style continues to evolve, with artists bringing new ideas and influences into this dynamic and expressive form of tattoo art.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "4",
     titleImg:
       "https://images.pexels.com/photos/1461816/pexels-photo-1461816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -198,6 +238,15 @@ const data = [
     ],
     fullPostDescription:
       "Blackwork tattoos appeal to individuals who appreciate the boldness and simplicity of black ink designs. The style allows for a wide range of artistic expression, from minimalist and symbolic tattoos to more complex and intricate patterns.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "6",
     titleImg:
       "https://images.pexels.com/photos/3851401/pexels-photo-3851401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -226,14 +275,6 @@ const data = [
         height: "960",
         alt: "tattoo",
       },
-      // {
-      //   id: "4",
-      //   img: "https://img.freepik.com/free-photo/happy-bare-man-with-fat-stomach-tattooed-belly-enjoys-listening-new-song-headphones-raises-arms-clenches-fists-moves-with-rthythm-feels-carefree-enjoys-fantastic-bits-poses-indoor_273609-40131.jpg?w=1380&t=st=1701524160~exp=1701524760~hmac=2f8356aaff95951c7c4f5aa3221e7c1d7b0e7f654dcc77a85e279af159fd497d",
-      //   thumbnailImg: "",
-      //   width: "1000",
-      //   height: "667",
-      //   alt: "tattoo",
-      // },
     ],
   },
   {
@@ -254,6 +295,15 @@ const data = [
     ],
     fullPostDescription:
       "Geometric tattoos appeal to those who appreciate the aesthetics of clean lines and mathematical precision. The style offers a wide range of creative possibilities, allowing for both intricate and minimalist designs that can hold personal significance or convey a purely visual impact.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "7",
     titleImg:
       "https://images.unsplash.com/photo-1614174487989-10fc7b5382a9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -311,18 +361,19 @@ const data = [
     ],
     fullPostDescription:
       "These tattoos are popular choices for commemorating loved ones, including family members, friends, or beloved pets. Clients often choose subjects with personal significance to create a lasting and realistic tribute.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "8",
     titleImg:
       "https://images.unsplash.com/photo-1590246814883-55516d8c2afd?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     img: [
-      // {
-      //   id: "1",
-      //   img: "https://img.freepik.com/free-photo/high-fashion-look-glamour-closeup-portrait-beautiful-black-american-woman-with-tattoo-back-bright-makeup_158538-9534.jpg?w=740&t=st=1701517657~exp=1701518257~hmac=d4dc7487a6ad6146f7aef33c2f08127ed86d8772f30c95dd99bb320f356226b2",
-      //   thumbnailImg: "",
-      //   width: "640",
-      //   height: "1000",
-      //   alt: "tattoo",
-      // },
       {
         id: "2",
         img: "https://images.unsplash.com/photo-1590246814883-55516d8c2afd?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -331,14 +382,6 @@ const data = [
         height: "958",
         alt: "tattoo",
       },
-      // {
-      //   id: "3",
-      //   img: "https://plus.unsplash.com/premium_photo-1677178765332-d3ec27c67389?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      //   thumbnailImg: "",
-      //   width: "640",
-      //   height: "960",
-      //   alt: "tattoo",
-      // },
     ],
   },
   {
@@ -359,6 +402,15 @@ const data = [
     ],
     fullPostDescription:
       "Tribal tattoos have a rich history and continue to be a popular choice for those seeking bold and visually impactful body art. The style's versatility allows for a wide range of interpretations, from traditional to contemporary expressions.",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "",
+        description: "",
+        picture: "",
+        website: "",
+      },
+    ],
     id: "9",
     titleImg:
       "https://images.unsplash.com/photo-1508280904592-52be2f8dfbc9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -399,6 +451,34 @@ const data = [
     ],
     fullPostDescription:
       "Old School tattoos have a rich history and are considered a foundational style in the world of tattoo art. They continue to be appreciated for their bold and straightforward designs, evoking a sense of nostalgia and classic tattooing culture.",
+    tattooHistory:
+      "Traditional or old-school tattoos are one of the most recognizable and long-lasting tattoo styles with bold black outlines, bright colors, and retro designs. This aesthetic has its origins in the early days of tattoo culture, when the first professional tattoo shops opened in major port cities across North America in the late 1800s. As tattoos became more accepted after years of criticism, tattoo parlors appealed to sailors and working-class men who wanted to remember their adventures and show their toughness. Today, tattoos are widely popular. Early traditional designs featured pictures like swallows, anchors, snakes, ships, roses, and pin-up girls. The tattoos were made using simple black, red, and green colors and lacked fine details. Customers on a budget could easily choose a design from the flashes displayed on the walls of parlors. By the middle of the 1900s, electric tattoo machines became better and more reasonably priced. Many World War II veterans returned home with tattoos and so tattoos became more common. In the 1970s and 80s, popular tattoo shops like Bert Grimm's in Long Beach improved the traditional tattoo style. The Outlaw Biker and Rock n Roll cultures celebrated the rebellious aspect of tattoos, which increased their popularity further. Soon, famous tattoo artists like Sailor Jerry improved the traditional American tattooing style with refinement, experimentation, and mythology. While intricate realism and new school tattoos became popular, the spirit and nostalgia of traditional tattoos never faded. Today, they remain sought-after for their 'old school cool' and rich ties to tattoo history and culture Their distinctive look also makes them ideal for tattoo sleeves and collections. Great traditional tattoos require mastery and appreciation of the fundamentals of tattoo art. This style, loved worldwide, serves as a critical foundation for tattooing around the globe. Traditional tattoos, whether new or old, have a defiant and retro flair, symbolizing a fearless approach to wearing your heart on your skin.",
+    artists: [
+      {
+        name: "Bob Tyrrell",
+        description:
+          "Bob Tyrrell: Born in Michigan in 1962. Full name Robert Frank Tyrrell. He first became interested in tattooing as a child after seeing heavily tattooed men at the circus. This inspired his future career path. Opened his first professional tattoo shop in the 1970s in Detroit, Michigan named Bob's Tattooing Studio. He created his own unique style of tattooing which came to be known as 'traditional Detroit'. It is characterized by bold outlines, graphic images, and a vivid color palette. Tyrrell's style draws influence from classic sailor motifs but stylized in his own gritty Midwestern way. His tattoos often paid tribute to Detroit or Midwest imagery. Considered a pioneer and major influence in neo-traditional and old school tattooing, especially in the Midwest. Has mentored many tattooists. Has won over 40 awards at conventions and competitions over his long career, cementing his legendary status in the tattoo world. Ran tattoo studios in Michigan and Las Vegas, but currently works out of Famous Faces and Funnies in Flint Township, Michigan. Published an art book of his tattoo designs in 2021 titled “Tyrrell’s Traditional Volume I”. More books in the works. Known for his blunt personality, storytelling, and high level of dedication and skill demonstrated across over 60 years as a working tattooist. A living icon in the tattoo world.",
+        picture:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bobtyrrelltattooartist.jpg/800px-Bobtyrrelltattooartist.jpg",
+        website: "https://www.bobtyrrell.com/",
+      },
+      {
+        name: "Norman 'Sailor Jerry' Collins",
+        description:
+          "Born Norman Keith Collins in 1911 in Reno, Nevada. He joined the United States Navy as a young adult, where he got his nickname 'Sailor Jerry'. He traveled the world while in the Navy from the 1930s to the 1940s. After leaving the Navy, he settled in Hawaii and began his tattoo career in earnest in the late 1940s. He opened a tattoo parlor called 'Sailor Jerry Collins Tattoo' on Hotel Street in Honolulu. He became known for his distinctive style featuring bold lines, blending of traditional American imagery with Japanese techniques, inclusion of patriotic & military symbols, and innovative use of color. Created his own unique customized tattoo machines from repurposed dental equipment. Developed new purple and green inks. Mentored and influenced other up and coming tattoo artists like Ed Hardy. Known as an opinionated character who commanded respect. Died in 1973 at the age of 62, but his iconic style continues to live on and inspire tattoo artists globally. After his death, he has been commemorated with tattoo conventions and competitions named after him, merchandise featuring his artwork, a rum brand with his name, and more recently a biographical documentary.",
+        picture:
+          "https://upload.wikimedia.org/wikipedia/en/8/8b/Norman_Keith_Collins.jpg",
+        website: "https://sailorjerry.com/en/norman-collins/",
+      },
+      {
+        name: "Ed Hardy",
+        description:
+          "Born in 1945 as Don Edgar Hardy in Corona del Mar, California. Became fascinated with tattoo art as a child after discovering his father's tattoo kit. Later graduated from the San Francisco Art Institute. Apprenticed under pioneering tattoo artists Phil Sparrow and Sailor Jerry Collins in the 1960s. This is where he adopted the name Ed Hardy. In the 1970s he revolutionized tattooing by bringing a fine art aesthetic and elevation of designs using motifs from Japanese tattooing. This became known as the 'new school' tattoo style. Published the seminal book 'Tattootime' in 1977 documenting the evolution of tattooing. This helped grow interest and mainstream appreciation for tattoo art. Founded Tattoo City studios in San Francisco and later the Hardy Marks Publications company to distribute his flash designs and prints Prolific artist with a very recognizable colorful style often featuring skulls, tigers, hearts, wreaths, and intricate patterns mixed with traditional motifs. Has airbrushed many celebrity tattoos. Has mentored many up and coming tattooists like Mike Malone. His artwork and personal style has impacted culture beyond tattooing, with Ed Hardy clothing/accessories and later his Ed Hardy by Christian Audigier fashion brand. Continues innovating today with art shows, mentorship programs and advocating for tattoo culture appreciation while running his Hardy Life store and Paradise Tattoo gathering in Hawaii.",
+        picture: "",
+        website: "",
+      },
+    ],
+
     id: "10",
     titleImg:
       "https://images.unsplash.com/photo-1543244128-30d70d41e2a9?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -429,40 +509,6 @@ const data = [
       },
     ],
   },
-
-  // {
-  //   title: "REALISM TATTOO",
-  //   description:
-  //     "A realism tattoo is a style of tattoo art that aims to replicate the appearance of real-life objects, scenes, or people as closely as possible. This style is characterized by its attention to detail, meticulous shading, and precise linework, resulting in tattoos that often resemble high-resolution photographs or lifelike portraits.",
-  //   link: "https://www.google.com/url?q=https%3A%2F%2Fgo.fiverr.com%2Fvisit%2F%3Fbta%3D799214%26brand%3Dfiverrcpa%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fcutesy_art%252Fcreate-realism-and-full-sleeve-tattoo-design%253Fcontext_referrer%253Dsearch_gigs%2526source%253Dtop-bar%2526ref_ctx_id%253D1311261ba1619db1d23d203d743d7b19%2526pckg_id%253D1%2526pos%253D3%2526ad_key%253Dbb0c5b5f-28a0-42c2-8444-20f45bd883e6%2526context_type%253Dauto%2526funnel%253D1311261ba1619db1d23d203d743d7b19%2526imp_id%253De59b0b89-3b9f-4586-919f-fb516947fd74&sa=D&sntz=1&usg=AOvVaw3nnAcDlEttReXxAqlNSr_n",
-  //   id: "7",
-  //   img: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/245886404/original/15b9bea08bdf439cca2b7b274a9aff205907ae4c/create-realism-and-full-sleeve-tattoo-design.jpg",
-  // },
-  // {
-  //   title: "BLACKWORK TATTOO",
-  //   description:
-  //     "Blackwork tattoo is a style of tattoo art that primarily uses black ink to create bold and intricate designs on the skin. This style is characterized by its heavy use of solid black areas, fine linework, geometric patterns, and a strong graphic appearance. Blackwork tattoos often have a striking and minimalist aesthetic, focusing on contrast and shapes rather than color.",
-  //   link: "https://www.google.com/url?q=https%3A%2F%2Fgo.fiverr.com%2Fvisit%2F%3Fbta%3D799214%26brand%3Dfiverrcpa%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fgarsiauw%252Fmake-u-dark-illustrative-style-tattoo-design%253Fcontext_referrer%253Dsearch_gigs%2526source%253Dtop-bar%2526ref_ctx_id%253D1f4d02dd4107a044873c270761a6d9cf%2526pckg_id%253D1%2526pos%253D5%2526context_type%253Dauto%2526funnel%253D1f4d02dd4107a044873c270761a6d9cf%2526imp_id%253D1e5e7352-eddb-4fe1-8bb0-6faa8f066e26&sa=D&sntz=1&usg=AOvVaw0RuOJQ31KZdgsCc4bFzRQ8",
-  //   id: "8",
-  //   img: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/191779513/original/23a4e165fc902fb910c9d1a4a4671e0c45ec9d43/make-u-dark-illustrative-style-tattoo-design.jpg",
-  // },
-
-  // {
-  //   title: "REALISTIC TRASH POLKA",
-  //   description:
-  //     "Realistic Trash Polka is a unique and relatively new style of tattoo art that combines elements of realism with bold graphic design and a trashy aesthetic. This style was developed by tattoo artists Volko Merschky and Simone Pfaff in their tattoo studio, Buena Vista Tattoo Club, in Germany. Realistic Trash Polka tattoos are known for their dynamic composition, contrast, and juxtaposition of realistic imagery with abstract and expressive elements.",
-  //   link: "https://www.google.com/url?q=https%3A%2F%2Fgo.fiverr.com%2Fvisit%2F%3Fbta%3D799214%26brand%3Dfiverrcpa%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fferirado%252Fcreate-professional-trash-polka-tattoo-design%253Fcontext_referrer%253Dsearch_gigs%2526source%253Dtop-bar%2526ref_ctx_id%253D54f5e26b22960ec41f10c7f53054b040%2526pckg_id%253D1%2526pos%253D7%2526context_type%253Dauto%2526funnel%253D54f5e26b22960ec41f10c7f53054b040%2526imp_id%253D8d318dc8-09a3-48f0-8ed0-def8bd35f673&sa=D&sntz=1&usg=AOvVaw0fcTGStS0uleYyTVaRkxC3",
-  //   id: "10",
-  //   img: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/276826631/original/ed3a266a0aee3814826baf3b16a351fc77eb62e8/create-professional-trash-polka-tattoo-design.jpg",
-  // },
-  // {
-  //   title: "SURREALISM TATTOO",
-  //   description:
-  //     "A surrealism tattoo is a style of tattoo art that draws inspiration from the artistic movement known as surrealism. Surrealism seeks to explore the subconscious mind, dreams, and irrational elements of reality through artistic expression. In tattooing, surrealism often translates into designs that feature imaginative and fantastical imagery, where reality is blended with dreamlike or nonsensical elements.",
-  //   link: "https://www.google.com/url?q=https%3A%2F%2Fgo.fiverr.com%2Fvisit%2F%3Fbta%3D799214%26brand%3Dfiverrcpa%26landingPage%3Dhttps%253A%252F%252Fwww.fiverr.com%252Fartbyjibrahim%252Fmake-you-sick-ass-drawing%253Fcontext_referrer%253Dsearch_gigs%2526source%253Dtop-bar%2526ref_ctx_id%253Dc84aec9ab978f3f204e4ead86342d714%2526pckg_id%253D1%2526pos%253D2%2526context_type%253Dauto%2526funnel%253Dc84aec9ab978f3f204e4ead86342d714%2526imp_id%253D656c945b-250c-4ee8-adc4-a152e0c356e6&sa=D&sntz=1&usg=AOvVaw1mE0YF4CYzHakwLtS22KUb",
-  //   id: "11",
-  //   img: "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/fa673ab6d0a5511689a991f33f32472e-1691225540/Commission%20Wooden%20Head/make-you-sick-ass-drawing.png",
-  // },
 ];
 
 export default data;

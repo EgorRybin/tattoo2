@@ -1,22 +1,63 @@
 .box {
+  display: block;
+  padding-bottom: 24px;
+}
+@media screen and (min-width: 680px) {
+  .listArtist:nth-child(2n) > div {
   display: flex;
-  max-width: 500px;
+  flex-direction: row-reverse;
+}
 }
 .wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
   max-width: 504px;
-  padding:24px;
+  padding: 24px;
   margin: 0 auto;
 }
 
 @media screen and (min-width: 680px) {
   .wrapper {
-max-width: 1200px;
+    max-width: 700px;
   }
 }
-.arrow {
-    fill: #03a9f4;
-    color: #03a9f4;
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 932px;
+  }
+}
+.arrowLink {
+fill: #fff;
+color: #fff;
+}
+.title {
+  color: #fff;
+}
+.description {
+  color: #fff;
+}
+.historyTitle {
+  color: #fff;
+}
+.img {
+  padding: 0;
+  width: 100%;
+  max-width: 400px;
+}
+.listArtist {
+    list-style-type: none;
+}
+.listArtistName {
+    list-style-type: none;
+    margin-bottom: 16px;
+}
+.linkArtist {
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+
+}
+.linkWebsite {
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
 }
