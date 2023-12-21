@@ -12,16 +12,19 @@
   text-shadow: 2px 2px 4px #1f1d1d;
 }
 
-
 .header {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 176px;
   margin: 0 auto;
-  /* width: 100%; */
-  /* max-width: 1600px; */
-/* 
+}
+
+
+@media screen and (max-width: 680px) {
+  .header {
+  width: 100%;
+  max-width: 1600px;
   background-image: linear-gradient(
       to left,
       rgba(47, 48, 58, 0.4),
@@ -30,7 +33,8 @@
     url(../../img/bg-cover.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; */
+  background-position: center center;
+  }
 }
 @media screen and (min-width: 680px) {
   .header {

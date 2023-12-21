@@ -1,5 +1,81 @@
 const data = [
   {
+    title: "OLD SCHOOL TATTOOS",
+    description:
+      "Old School tattoos, or American Traditional tattoos, originated in the early 20th century. Recognized for bold black outlines, limited primary colors, and iconic symbols like anchors and roses, this style reflects a timeless aesthetic. Sailor Jerry's influence, emphasis on flash art, and two-dimensional designs contribute to its enduring popularity. Old School tattoos evoke a sense of nostalgia and remain a foundational and cherished style in the history of tattoo art.",
+    fullPreDescription:
+      "Old School tattoos, also known as Traditional or American Traditional tattoos, are a classic style that originated in the early 20th century and gained popularity in Western tattooing. Key features of Old School tattoos include:",
+    descriptionList: [
+      "Bold Outlines: Old School tattoos are characterized by thick, bold black outlines that define the design and make it visually striking.",
+      "Limited Color Palette: The color palette is often limited to primary colors (red, blue, yellow, and green) with minimal shading. Black is also prominently used for contrast.",
+      "Iconic Symbols: Traditional symbols like anchors, hearts, roses, nautical themes, birds, and pin-up girls are common in Old School tattoos. Each symbol carries specific meanings.",
+      "Flat and Two-Dimensional: The style typically features flat, two-dimensional designs without much emphasis on realistic shading or depth.",
+      "Sailor Jerry Influence: Sailor Jerry, a prominent tattoo artist, greatly influenced the Old School style. His work often incorporated maritime themes, patriotic symbols, and stylized animals.",
+      "Flash Art: Old School tattoos are often associated with flash art—pre-designed sheets displayed in tattoo shops. Customers would choose a design from the flash, emphasizing standardized, easily recognizable images.",
+      "Timeless Aesthetic: Despite its historical roots, Old School remains popular for its timeless and bold aesthetic. Many contemporary artists draw inspiration from this style.",
+      "Placement: Traditional tattoos are commonly placed on specific areas of the body, such as the arms, chest, or back.",
+    ],
+    fullPostDescription:
+      "Old School tattoos have a rich history and are considered a foundational style in the world of tattoo art. They continue to be appreciated for their bold and straightforward designs, evoking a sense of nostalgia and classic tattooing culture.",
+    tattooHistory:
+      "Traditional or old-school tattoos are one of the most recognizable and long-lasting tattoo styles with bold black outlines, bright colors, and retro designs. This aesthetic has its origins in the early days of tattoo culture, when the first professional tattoo shops opened in major port cities across North America in the late 1800s. As tattoos became more accepted after years of criticism, tattoo parlors appealed to sailors and working-class men who wanted to remember their adventures and show their toughness. Today, tattoos are widely popular. Early traditional designs featured pictures like swallows, anchors, snakes, ships, roses, and pin-up girls. The tattoos were made using simple black, red, and green colors and lacked fine details. Customers on a budget could easily choose a design from the flashes displayed on the walls of parlors. By the middle of the 1900s, electric tattoo machines became better and more reasonably priced. Many World War II veterans returned home with tattoos and so tattoos became more common. In the 1970s and 80s, popular tattoo shops like Bert Grimm's in Long Beach improved the traditional tattoo style. The Outlaw Biker and Rock n Roll cultures celebrated the rebellious aspect of tattoos, which increased their popularity further. Soon, famous tattoo artists like Sailor Jerry improved the traditional American tattooing style with refinement, experimentation, and mythology. While intricate realism and new school tattoos became popular, the spirit and nostalgia of traditional tattoos never faded. Today, they remain sought-after for their 'old school cool' and rich ties to tattoo history and culture Their distinctive look also makes them ideal for tattoo sleeves and collections. Great traditional tattoos require mastery and appreciation of the fundamentals of tattoo art. This style, loved worldwide, serves as a critical foundation for tattooing around the globe. Traditional tattoos, whether new or old, have a defiant and retro flair, symbolizing a fearless approach to wearing your heart on your skin.",
+    artists: [
+      {
+        name: "Bob Tyrrell",
+        description:
+          "Bob Tyrrell: Born in Michigan in 1962. Full name Robert Frank Tyrrell. He first became interested in tattooing as a child after seeing heavily tattooed men at the circus. This inspired his future career path. Opened his first professional tattoo shop in the 1970s in Detroit, Michigan named Bob's Tattooing Studio. He created his own unique style of tattooing which came to be known as 'traditional Detroit'. It is characterized by bold outlines, graphic images, and a vivid color palette. Tyrrell's style draws influence from classic sailor motifs but stylized in his own gritty Midwestern way. His tattoos often paid tribute to Detroit or Midwest imagery. Considered a pioneer and major influence in neo-traditional and old school tattooing, especially in the Midwest. Has mentored many tattooists. Has won over 40 awards at conventions and competitions over his long career, cementing his legendary status in the tattoo world. Ran tattoo studios in Michigan and Las Vegas, but currently works out of Famous Faces and Funnies in Flint Township, Michigan. Published an art book of his tattoo designs in 2021 titled “Tyrrell’s Traditional Volume I”. More books in the works. Known for his blunt personality, storytelling, and high level of dedication and skill demonstrated across over 60 years as a working tattooist. A living icon in the tattoo world.",
+        picture:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bobtyrrelltattooartist.jpg/800px-Bobtyrrelltattooartist.jpg",
+        website: "https://www.bobtyrrell.com/",
+      },
+      {
+        name: "Norman 'Sailor Jerry' Collins",
+        description:
+          "Born Norman Keith Collins in 1911 in Reno, Nevada. He joined the United States Navy as a young adult, where he got his nickname 'Sailor Jerry'. He traveled the world while in the Navy from the 1930s to the 1940s. After leaving the Navy, he settled in Hawaii and began his tattoo career in earnest in the late 1940s. He opened a tattoo parlor called 'Sailor Jerry Collins Tattoo' on Hotel Street in Honolulu. He became known for his distinctive style featuring bold lines, blending of traditional American imagery with Japanese techniques, inclusion of patriotic & military symbols, and innovative use of color. Created his own unique customized tattoo machines from repurposed dental equipment. Developed new purple and green inks. Mentored and influenced other up and coming tattoo artists like Ed Hardy. Known as an opinionated character who commanded respect. Died in 1973 at the age of 62, but his iconic style continues to live on and inspire tattoo artists globally. After his death, he has been commemorated with tattoo conventions and competitions named after him, merchandise featuring his artwork, a rum brand with his name, and more recently a biographical documentary.",
+        picture:
+          "https://upload.wikimedia.org/wikipedia/en/8/8b/Norman_Keith_Collins.jpg",
+        website: "https://sailorjerry.com/en/norman-collins/",
+      },
+      {
+        name: "Ed Hardy",
+        description:
+          "Born in 1945 as Don Edgar Hardy in Corona del Mar, California. Became fascinated with tattoo art as a child after discovering his father's tattoo kit. Later graduated from the San Francisco Art Institute. Apprenticed under pioneering tattoo artists Phil Sparrow and Sailor Jerry Collins in the 1960s. This is where he adopted the name Ed Hardy. In the 1970s he revolutionized tattooing by bringing a fine art aesthetic and elevation of designs using motifs from Japanese tattooing. This became known as the 'new school' tattoo style. Published the seminal book 'Tattootime' in 1977 documenting the evolution of tattooing. This helped grow interest and mainstream appreciation for tattoo art. Founded Tattoo City studios in San Francisco and later the Hardy Marks Publications company to distribute his flash designs and prints Prolific artist with a very recognizable colorful style often featuring skulls, tigers, hearts, wreaths, and intricate patterns mixed with traditional motifs. Has airbrushed many celebrity tattoos. Has mentored many up and coming tattooists like Mike Malone. His artwork and personal style has impacted culture beyond tattooing, with Ed Hardy clothing/accessories and later his Ed Hardy by Christian Audigier fashion brand. Continues innovating today with art shows, mentorship programs and advocating for tattoo culture appreciation while running his Hardy Life store and Paradise Tattoo gathering in Hawaii.",
+        picture: "",
+        website: "",
+      },
+    ],
+
+    id: "1",
+    titleImg:
+      "https://images.unsplash.com/photo-1543244128-30d70d41e2a9?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: [
+      {
+        id: "1",
+        img: "https://images.unsplash.com/photo-1543244128-30d70d41e2a9?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        thumbnailImg: "",
+        width: "640",
+        height: "428",
+        alt: "tattoo",
+      },
+      {
+        id: "2",
+        img: "https://images.unsplash.com/photo-1585303390830-874c989ce8f1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        thumbnailImg: "",
+        width: "640",
+        height: "960",
+        alt: "tattoo",
+      },
+      {
+        id: "3",
+        img: "https://images.unsplash.com/photo-1598816639574-47ef99da24fd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        thumbnailImg: "",
+        width: "640",
+        height: "960",
+        alt: "tattoo",
+      },
+    ],
+  },
+  {
     title: "JAPANESE TATTOOS",
     description:
       "Japanese tattoos, or Irezumi, are a traditional art form deeply rooted in Japan's history. With motifs like dragons, koi fish, and cherry blossoms, they convey cultural and spiritual meanings. Originating with criminal associations, tattoos evolved into elaborate full-body suits, telling personal stories. While historically stigmatized, modern Japanese tattoos blend traditional elements with contemporary styles, gaining global popularity. Taboos persist in Japan, reflecting changing societal attitudes. Today, Japanese tattooing encompasses both traditional hand-poking (tebori) and modern techniques, celebrating a rich artistic heritage.",
@@ -429,82 +505,6 @@ const data = [
         thumbnailImg: "",
         width: "640",
         height: "551",
-        alt: "tattoo",
-      },
-    ],
-  },
-  {
-    title: "OLD SCHOOL TATTOOS",
-    description:
-      "Old School tattoos, or American Traditional tattoos, originated in the early 20th century. Recognized for bold black outlines, limited primary colors, and iconic symbols like anchors and roses, this style reflects a timeless aesthetic. Sailor Jerry's influence, emphasis on flash art, and two-dimensional designs contribute to its enduring popularity. Old School tattoos evoke a sense of nostalgia and remain a foundational and cherished style in the history of tattoo art.",
-    fullPreDescription:
-      "Old School tattoos, also known as Traditional or American Traditional tattoos, are a classic style that originated in the early 20th century and gained popularity in Western tattooing. Key features of Old School tattoos include:",
-    descriptionList: [
-      "Bold Outlines: Old School tattoos are characterized by thick, bold black outlines that define the design and make it visually striking.",
-      "Limited Color Palette: The color palette is often limited to primary colors (red, blue, yellow, and green) with minimal shading. Black is also prominently used for contrast.",
-      "Iconic Symbols: Traditional symbols like anchors, hearts, roses, nautical themes, birds, and pin-up girls are common in Old School tattoos. Each symbol carries specific meanings.",
-      "Flat and Two-Dimensional: The style typically features flat, two-dimensional designs without much emphasis on realistic shading or depth.",
-      "Sailor Jerry Influence: Sailor Jerry, a prominent tattoo artist, greatly influenced the Old School style. His work often incorporated maritime themes, patriotic symbols, and stylized animals.",
-      "Flash Art: Old School tattoos are often associated with flash art—pre-designed sheets displayed in tattoo shops. Customers would choose a design from the flash, emphasizing standardized, easily recognizable images.",
-      "Timeless Aesthetic: Despite its historical roots, Old School remains popular for its timeless and bold aesthetic. Many contemporary artists draw inspiration from this style.",
-      "Placement: Traditional tattoos are commonly placed on specific areas of the body, such as the arms, chest, or back.",
-    ],
-    fullPostDescription:
-      "Old School tattoos have a rich history and are considered a foundational style in the world of tattoo art. They continue to be appreciated for their bold and straightforward designs, evoking a sense of nostalgia and classic tattooing culture.",
-    tattooHistory:
-      "Traditional or old-school tattoos are one of the most recognizable and long-lasting tattoo styles with bold black outlines, bright colors, and retro designs. This aesthetic has its origins in the early days of tattoo culture, when the first professional tattoo shops opened in major port cities across North America in the late 1800s. As tattoos became more accepted after years of criticism, tattoo parlors appealed to sailors and working-class men who wanted to remember their adventures and show their toughness. Today, tattoos are widely popular. Early traditional designs featured pictures like swallows, anchors, snakes, ships, roses, and pin-up girls. The tattoos were made using simple black, red, and green colors and lacked fine details. Customers on a budget could easily choose a design from the flashes displayed on the walls of parlors. By the middle of the 1900s, electric tattoo machines became better and more reasonably priced. Many World War II veterans returned home with tattoos and so tattoos became more common. In the 1970s and 80s, popular tattoo shops like Bert Grimm's in Long Beach improved the traditional tattoo style. The Outlaw Biker and Rock n Roll cultures celebrated the rebellious aspect of tattoos, which increased their popularity further. Soon, famous tattoo artists like Sailor Jerry improved the traditional American tattooing style with refinement, experimentation, and mythology. While intricate realism and new school tattoos became popular, the spirit and nostalgia of traditional tattoos never faded. Today, they remain sought-after for their 'old school cool' and rich ties to tattoo history and culture Their distinctive look also makes them ideal for tattoo sleeves and collections. Great traditional tattoos require mastery and appreciation of the fundamentals of tattoo art. This style, loved worldwide, serves as a critical foundation for tattooing around the globe. Traditional tattoos, whether new or old, have a defiant and retro flair, symbolizing a fearless approach to wearing your heart on your skin.",
-    artists: [
-      {
-        name: "Bob Tyrrell",
-        description:
-          "Bob Tyrrell: Born in Michigan in 1962. Full name Robert Frank Tyrrell. He first became interested in tattooing as a child after seeing heavily tattooed men at the circus. This inspired his future career path. Opened his first professional tattoo shop in the 1970s in Detroit, Michigan named Bob's Tattooing Studio. He created his own unique style of tattooing which came to be known as 'traditional Detroit'. It is characterized by bold outlines, graphic images, and a vivid color palette. Tyrrell's style draws influence from classic sailor motifs but stylized in his own gritty Midwestern way. His tattoos often paid tribute to Detroit or Midwest imagery. Considered a pioneer and major influence in neo-traditional and old school tattooing, especially in the Midwest. Has mentored many tattooists. Has won over 40 awards at conventions and competitions over his long career, cementing his legendary status in the tattoo world. Ran tattoo studios in Michigan and Las Vegas, but currently works out of Famous Faces and Funnies in Flint Township, Michigan. Published an art book of his tattoo designs in 2021 titled “Tyrrell’s Traditional Volume I”. More books in the works. Known for his blunt personality, storytelling, and high level of dedication and skill demonstrated across over 60 years as a working tattooist. A living icon in the tattoo world.",
-        picture:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bobtyrrelltattooartist.jpg/800px-Bobtyrrelltattooartist.jpg",
-        website: "https://www.bobtyrrell.com/",
-      },
-      {
-        name: "Norman 'Sailor Jerry' Collins",
-        description:
-          "Born Norman Keith Collins in 1911 in Reno, Nevada. He joined the United States Navy as a young adult, where he got his nickname 'Sailor Jerry'. He traveled the world while in the Navy from the 1930s to the 1940s. After leaving the Navy, he settled in Hawaii and began his tattoo career in earnest in the late 1940s. He opened a tattoo parlor called 'Sailor Jerry Collins Tattoo' on Hotel Street in Honolulu. He became known for his distinctive style featuring bold lines, blending of traditional American imagery with Japanese techniques, inclusion of patriotic & military symbols, and innovative use of color. Created his own unique customized tattoo machines from repurposed dental equipment. Developed new purple and green inks. Mentored and influenced other up and coming tattoo artists like Ed Hardy. Known as an opinionated character who commanded respect. Died in 1973 at the age of 62, but his iconic style continues to live on and inspire tattoo artists globally. After his death, he has been commemorated with tattoo conventions and competitions named after him, merchandise featuring his artwork, a rum brand with his name, and more recently a biographical documentary.",
-        picture:
-          "https://upload.wikimedia.org/wikipedia/en/8/8b/Norman_Keith_Collins.jpg",
-        website: "https://sailorjerry.com/en/norman-collins/",
-      },
-      {
-        name: "Ed Hardy",
-        description:
-          "Born in 1945 as Don Edgar Hardy in Corona del Mar, California. Became fascinated with tattoo art as a child after discovering his father's tattoo kit. Later graduated from the San Francisco Art Institute. Apprenticed under pioneering tattoo artists Phil Sparrow and Sailor Jerry Collins in the 1960s. This is where he adopted the name Ed Hardy. In the 1970s he revolutionized tattooing by bringing a fine art aesthetic and elevation of designs using motifs from Japanese tattooing. This became known as the 'new school' tattoo style. Published the seminal book 'Tattootime' in 1977 documenting the evolution of tattooing. This helped grow interest and mainstream appreciation for tattoo art. Founded Tattoo City studios in San Francisco and later the Hardy Marks Publications company to distribute his flash designs and prints Prolific artist with a very recognizable colorful style often featuring skulls, tigers, hearts, wreaths, and intricate patterns mixed with traditional motifs. Has airbrushed many celebrity tattoos. Has mentored many up and coming tattooists like Mike Malone. His artwork and personal style has impacted culture beyond tattooing, with Ed Hardy clothing/accessories and later his Ed Hardy by Christian Audigier fashion brand. Continues innovating today with art shows, mentorship programs and advocating for tattoo culture appreciation while running his Hardy Life store and Paradise Tattoo gathering in Hawaii.",
-        picture: "",
-        website: "",
-      },
-    ],
-
-    id: "10",
-    titleImg:
-      "https://images.unsplash.com/photo-1543244128-30d70d41e2a9?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    img: [
-      {
-        id: "1",
-        img: "https://images.unsplash.com/photo-1543244128-30d70d41e2a9?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        thumbnailImg: "",
-        width: "640",
-        height: "428",
-        alt: "tattoo",
-      },
-      {
-        id: "2",
-        img: "https://images.unsplash.com/photo-1585303390830-874c989ce8f1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        thumbnailImg: "",
-        width: "640",
-        height: "960",
-        alt: "tattoo",
-      },
-      {
-        id: "3",
-        img: "https://images.unsplash.com/photo-1598816639574-47ef99da24fd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        thumbnailImg: "",
-        width: "640",
-        height: "960",
         alt: "tattoo",
       },
     ],

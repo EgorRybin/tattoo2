@@ -12,6 +12,7 @@ const ProductDetail = ({ data }) => {
   document.body.scrollTop = document.documentElement.scrollTop = 0;
   return (
     <div className={css.wrapper}>
+      <div className={css.border}></div>
       <Link to={"/"}>
         <img src={arrowSvg} alt="arrow" />
       </Link>

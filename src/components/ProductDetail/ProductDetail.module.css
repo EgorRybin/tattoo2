@@ -4,9 +4,9 @@
 }
 @media screen and (min-width: 680px) {
   .listArtist:nth-child(2n) > div {
-  display: flex;
-  flex-direction: row-reverse;
-}
+    display: flex;
+    flex-direction: row-reverse;
+  }
 }
 .wrapper {
   display: flex;
@@ -15,6 +15,13 @@
   max-width: 504px;
   padding: 24px;
   margin: 0 auto;
+}
+
+.border {
+  width: 100%;
+  border: 1px rgb(255, 255, 255) solid;
+  border-radius: 1px;
+  margin-bottom: 16px;
 }
 
 @media screen and (min-width: 680px) {
@@ -28,8 +35,8 @@
   }
 }
 .arrowLink {
-fill: #fff;
-color: #fff;
+  fill: #fff;
+  color: #fff;
 }
 .title {
   color: #fff;
@@ -46,17 +53,67 @@ color: #fff;
   max-width: 400px;
 }
 .listArtist {
-    list-style-type: none;
+  list-style-type: none;
 }
 .listArtistName {
-    list-style-type: none;
-    margin-bottom: 16px;
+  list-style-type: none;
+  margin-bottom: 16px;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+  transition: 0.4s ease;
 }
 .linkArtist {
-  text-transform: uppercase;
-  color: rgb(255, 255, 255);
-
+  /* text-transform: uppercase;
+    position: relative; */
+  margin: 16px 0 0 0;
+  padding: 8px 0 8px 0;
+  width: 100%;
+  border-radius: 3px;
+  font-family: Roboto, Arial;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #1f1d1d;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 22px;
+  text-align: center;
+  text-decoration: none;
+  /* z-index: 1;
+  transition: 0.4s ease; */
 }
+.linkArtist:hover {
+  color: #1f1d1d;
+  text-shadow: 2px 2px 4px #1f1d1d;
+  transition: 0.4s ease;
+}
+
+.listArtistName::before {
+  content: "";
+  position: absolute;
+  height: 50%;
+  width: 0;
+  top: 0;
+  right: 0;
+  background-color: rgb(255, 255, 255);
+  transition: 0.4s ease;
+  z-index: -1;
+}
+.listArtistName::after {
+  content: "";
+  position: absolute;
+  height: 50%;
+  width: 0;
+  top: 50%;
+  left: 0;
+  background-color: rgb(255, 255, 255);
+  transition: 0.4s ease;
+  z-index: -1;
+}
+.listArtistName:hover::before,
+.listArtistName:hover::after {
+  width: 100%;
+}
+
 .linkWebsite {
   text-transform: uppercase;
   color: rgb(255, 255, 255);
