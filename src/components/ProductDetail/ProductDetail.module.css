@@ -36,7 +36,14 @@
 }
 .arrowLink {
   fill: #fff;
-  color: #fff;
+  width: 32px;
+  height: 32px;
+}
+.arrowLink:hover {
+  stroke: #686767;
+  stroke-width: 3px;
+  transition: 0.25s ease;
+
 }
 .title {
   color: #fff;
@@ -67,7 +74,7 @@
   /* text-transform: uppercase;
     position: relative; */
   margin: 16px 0 0 0;
-  padding: 8px 0 8px 0;
+  padding: 8px 4px 8px 4px;
   width: 100%;
   border-radius: 3px;
   font-family: Roboto, Arial;
