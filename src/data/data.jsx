@@ -1,6 +1,8 @@
 const data = [
   {
     title: "OLD SCHOOL TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252Fq28b0y",
     description:
       "Old School tattoos, or American Traditional tattoos, originated in the early 20th century. Recognized for bold black outlines, limited primary colors, and iconic symbols like anchors and roses, this style reflects a timeless aesthetic. Sailor Jerry's influence, emphasis on flash art, and two-dimensional designs contribute to its enduring popularity. Old School tattoos evoke a sense of nostalgia and remain a foundational and cherished style in the history of tattoo art.",
     fullPreDescription:
@@ -40,7 +42,8 @@ const data = [
         name: "Ed Hardy",
         description:
           "Born in 1945 as Don Edgar Hardy in Corona del Mar, California. Became fascinated with tattoo art as a child after discovering his father's tattoo kit. Later graduated from the San Francisco Art Institute. Apprenticed under pioneering tattoo artists Phil Sparrow and Sailor Jerry Collins in the 1960s. This is where he adopted the name Ed Hardy. In the 1970s he revolutionized tattooing by bringing a fine art aesthetic and elevation of designs using motifs from Japanese tattooing. This became known as the 'new school' tattoo style. Published the seminal book 'Tattootime' in 1977 documenting the evolution of tattooing. This helped grow interest and mainstream appreciation for tattoo art. Founded Tattoo City studios in San Francisco and later the Hardy Marks Publications company to distribute his flash designs and prints Prolific artist with a very recognizable colorful style often featuring skulls, tigers, hearts, wreaths, and intricate patterns mixed with traditional motifs. Has airbrushed many celebrity tattoos. Has mentored many up and coming tattooists like Mike Malone. His artwork and personal style has impacted culture beyond tattooing, with Ed Hardy clothing/accessories and later his Ed Hardy by Christian Audigier fashion brand. Continues innovating today with art shows, mentorship programs and advocating for tattoo culture appreciation while running his Hardy Life store and Paradise Tattoo gathering in Hawaii.",
-        picture: "",
+        picture:
+          "https://sharksink.com/wp-content/uploads/2020/03/Hardy-at-work-Holualoa-2-1.jpg",
         website: "",
       },
     ],
@@ -77,6 +80,8 @@ const data = [
   },
   {
     title: "JAPANESE TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252F2XGQv4",
     description:
       "Japanese tattoos, or Irezumi, are a traditional art form deeply rooted in Japan's history. With motifs like dragons, koi fish, and cherry blossoms, they convey cultural and spiritual meanings. Originating with criminal associations, tattoos evolved into elaborate full-body suits, telling personal stories. While historically stigmatized, modern Japanese tattoos blend traditional elements with contemporary styles, gaining global popularity. Taboos persist in Japan, reflecting changing societal attitudes. Today, Japanese tattooing encompasses both traditional hand-poking (tebori) and modern techniques, celebrating a rich artistic heritage.",
     fullPreDescription:
@@ -97,20 +102,26 @@ const data = [
     artists: [
       {
         name: "Horiyoshi III",
-        description: "",
-        picture: "",
+        description:
+          "Horiyoshi III, also known as Yoshihito Nakano, is a renowned Japanese tattoo artist. He is considered one of the greatest masters of traditional Japanese tattooing, known as irezumi or horimono. Horiyoshi III was born in 1946 in Yokohama, Japan, and he began his career as a tattoo artist in the 1970s. He is famous for his exquisite and intricate designs, often drawing inspiration from Japanese mythology, folklore, and ukiyo-e art. Horiyoshi III's work is highly respected worldwide for its technical skill, attention to detail, and adherence to traditional Japanese tattooing techniques. His artistic talent and dedication to preserving and promoting the art of irezumi have earned him international recognition and a devoted following among tattoo enthusiasts.",
+        picture:
+          "https://images.squarespace-cdn.com/content/v1/53eadbbae4b0ba68f27e6191/1590731441743-Q0JWM6SXOMOECLU67VV1/Meeting-the-MasterS-Horiyoshi-III.jpg",
         website: "",
       },
       {
         name: "Shige",
-        description: "",
-        picture: "",
+        description:
+          "Shige, also known as Shigenori Iwasaki, is another prominent Japanese tattoo artist renowned for his exceptional skill and unique style. Like Horiyoshi III, Shige specializes in traditional Japanese tattooing, known as irezumi. He was born in 1970 in Japan and began his tattooing career in the late 1990s. Shige gained widespread recognition for his innovative approach to traditional Japanese tattooing, blending elements of realism, surrealism, and graphic design into his work. His tattoos often feature bold colors, intricate patterns, and dynamic compositions, while still maintaining a deep respect for the traditional motifs and symbolism of irezumi. Shige's influence extends beyond his tattoo artistry; he has also authored several instructional books and produced instructional DVDs on Japanese tattooing techniques, contributing to the preservation and dissemination of this ancient art form. His dedication to pushing the boundaries of traditional tattooing while honoring its rich heritage has earned him a prominent place in the global tattoo community.",
+        picture:
+          "https://theorangeexplorer.com/wp-content/uploads/2018/03/FP0611T-236pat1-copy.jpg",
         website: "",
       },
       {
         name: "Horitomo",
-        description: "",
-        picture: "",
+        description:
+          "Horitomo is the professional name of Kazuaki Kitamura, a highly respected tattoo artist based in California, USA. He is renowned for his expertise in Japanese tattooing, particularly the traditional tebori style, which involves tattooing by hand using traditional Japanese tattooing tools such as needles attached to a wooden or metal rod. Horitomo was born in Japan and began his tattooing career there before relocating to the United States. He has studied under several master tattoo artists, including Horiyoshi III, and has developed his own distinctive style that combines traditional Japanese motifs with elements of Western tattooing. In addition to his tattoo work, Horitomo is also an accomplished illustrator and author. He has published several books on Japanese tattooing, including 'Tattoo Inspirations' and 'Monmon Cats,' which feature his original artwork inspired by traditional Japanese tattoo designs. Horitomo's dedication to preserving and promoting the art of Japanese tattooing, both through his own tattoo work and his educational materials, has earned him widespread acclaim in the tattoo community. He continues to be a prominent figure in the world of tattooing, known for his skill, creativity, and passion for the art form.",
+        picture:
+          "https://devmedia.discovernikkei.org/articles/5978/SanJose.jpg",
         website: "",
       },
     ],
@@ -146,6 +157,8 @@ const data = [
   },
   {
     title: "MINIMALIST TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FaQxkyg",
     description:
       "Minimalist tattoos are a modern trend characterized by simplicity and subtlety. These small, often monochromatic designs feature clean lines, basic shapes, and minimal color, conveying profound meaning through understated elegance. Common themes include nature, symbols, and delicate typography. Positioned in discreet locations, minimalist tattoos appeal to those seeking a timeless and personalized form of self-expression, combining artistic finesse with a restrained aesthetic.",
     fullPreDescription:
@@ -165,9 +178,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Dr. Woo",
+        description:
+          "Dr. Woo, whose real name is Brian Woo, is a highly acclaimed tattoo artist based in Los Angeles, California. He has gained international recognition for his intricate and detailed tattoo work, often characterized by fine lines, intricate patterns, and delicate shading. Dr. Woo's signature style blends elements of traditional tattooing with contemporary design aesthetics, resulting in visually stunning and highly sought-after tattoos. He is particularly known for his expertise in single needle tattooing, which allows for precise detailing and intricate designs. Dr. Woo has tattooed numerous celebrities, including actors, musicians, and athletes, and his work has been featured in various publications and media outlets worldwide. He has also collaborated with several fashion and lifestyle brands, further solidifying his status as one of the most influential tattoo artists in the industry.",
+        picture:
+          "https://www.hollywoodreporter.com/wp-content/uploads/2019/11/dr._woo_-_publicity_-_h_2019_.jpg?w=1296  ",
+        website: "",
+      },
+      {
+        name: "JonBoy",
+        description:
+          "JonBoy, whose real name is Jonathan Valena, is a prominent tattoo artist known for his minimalist and delicate tattoo designs. Based in New York City, JonBoy gained widespread recognition for his work, particularly among celebrities and influencers. JonBoy's style is characterized by small, intricate designs, often featuring fine lines, delicate shading, and minimalist imagery. He is known for his expertise in creating tiny tattoos with clean, precise lines, which has contributed to the popularity of minimalist tattooing. JonBoy's client list includes numerous celebrities such as Justin Bieber, Kendall Jenner, Hailey Bieber, and Zayn Malik, among others. His work has been featured in various fashion magazines and media outlets, further elevating his status as a sought-after tattoo artist. In addition to his tattooing career, JonBoy is also known for his presence on social media platforms like Instagram, where he shares photos of his work and offers insights into his creative process. He continues to be a prominent figure in the tattoo industry, admired for his skillful execution and minimalist aesthetic.",
+        picture:
+          "https://coveteur.com/media-library/jonboy.jpg?id=25291617&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+        website: "",
+      },
+      {
+        name: "Mo Ganji",
+        description:
+          "Mo Ganji is an Iranian-born tattoo artist based in Berlin, Germany, known for his minimalist single-line tattoo style. He gained widespread attention for his unique approach to tattooing, which focuses on creating intricate designs using a single continuous line. Mo Ganji's minimalist tattoos often depict various subjects, including animals, faces, human figures, and abstract forms. Despite the simplicity of his technique, his tattoos convey depth, emotion, and complexity, showcasing his skillful craftsmanship and artistic vision. Before pursuing a career in tattooing, Mo Ganji worked as an engineer. However, he eventually decided to follow his passion for art, leading him to embark on a journey as a professional tattoo artist. His minimalist single-line tattoos have earned him a dedicated following on social media and recognition within the tattoo community. Mo Ganji's work has been featured in numerous tattoo publications and media outlets, and he continues to inspire aspiring tattoo artists and enthusiasts with his innovative approach to tattooing.",
+        picture:
+          "https://stories.isu.pub/70137887/images/54_original_file_I0.jpg",
         website: "",
       },
     ],
@@ -211,6 +242,8 @@ const data = [
   },
   {
     title: "NEW SCHOOL TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FAxBdVQ",
     description:
       "New School tattoos are a vibrant and contemporary style known for bold colors, exaggerated proportions, and cartoonish designs. Emerging in the late 20th century, they often feature playful themes, dynamic compositions, and 3D effects. Influenced by street art and graffiti, New School tattoos offer creative freedom to artists, resulting in unique and eye-catching designs. Popular for making bold statements, these tattoos appeal to those who appreciate a modern, animated aesthetic in body art.",
     fullPreDescription:
@@ -230,9 +263,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Jesse Smith",
+        description:
+          "Jesse Smith is a highly acclaimed tattoo artist known for his vibrant and imaginative tattooing style, often associated with the New School tattoo genre. Born and raised in Richmond, Virginia, Smith has been involved in the tattoo industry for over two decades.Smith gained widespread recognition for his appearance on the reality TV show 'Ink Master,' where he showcased his exceptional artistic skills and creativity. His tattoo designs often feature bold colors, exaggerated proportions, and whimsical themes, creating visually dynamic and eye-catching pieces. Aside from his TV appearances, Smith has established himself as a sought-after tattoo artist with a loyal clientele. He is known for his ability to transform clients' ideas into unique and personalized tattoos, often incorporating elements of humor, fantasy, and pop culture into his designs. In addition to tattooing, Smith is also a talented painter and illustrator, further showcasing his artistic versatility and creativity. He continues to be a prominent figure in the tattoo industry, admired for his distinctive style and innovative approach to tattooing.",
+        picture:
+          "https://miro.medium.com/v2/resize:fit:789/1*jNaCkjIfY2bQeIO-voJ5Bw.png",
+        website: "",
+      },
+      {
+        name: "Nikko Hurtado",
+        description:
+          "Nikko Hurtado is a world-renowned tattoo artist known for his exceptional skill in realistic and portrait tattooing. Based in Los Angeles, California, Hurtado has become one of the most influential figures in the tattoo industry. Hurtado's signature style is characterized by his ability to create lifelike portraits and highly detailed realism tattoos. He is known for his mastery of color, shading, and intricate details, which allow him to capture the likeness and depth of his subjects with remarkable accuracy. Throughout his career, Hurtado has tattooed numerous celebrities, musicians, and athletes, earning him a reputation as one of the go-to tattoo artists for portrait work. His clientele includes the likes of Dwayne 'The Rock' Johnson, LeBron James, and Kat Von D, among others. In addition to his tattooing career, Hurtado is also a co-owner of the Black Anchor Collective tattoo studio in Hesperia, California, where he mentors aspiring tattoo artists and continues to push the boundaries of realism tattooing. Hurtado's work has been featured in various tattoo publications and media outlets, and he has received numerous awards and accolades for his contributions to the industry. He remains a highly respected and influential figure, admired by both fellow tattoo artists and enthusiasts alike.",
+        picture:
+          "https://www.godsofinktattooconvention.com/wp-content/uploads/2022/09/01_Nikko-Hurtado-USA-@nikkohurtado-e1663235035911.jpg",
+        website: "",
+      },
+      {
+        name: "Jeff Gogue",
+        description:
+          "Jeff Gogue is a highly respected tattoo artist known for his exceptional talent in creating dynamic and highly detailed tattoos. He is recognized for his versatility, being proficient in various tattoo styles, including Japanese, realism, and New School. Based in Grants Pass, Oregon, Jeff Gogue's tattooing style often incorporates elements of nature, mythology, and fantasy. He is known for his ability to create immersive and visually stunning tattoos that captivate viewers with their depth and intricacy. Gogue's work is characterized by his use of bold colors, intricate line work, and meticulous attention to detail. He often draws inspiration from his surroundings, as well as from his own spiritual and philosophical beliefs, resulting in tattoos that are not only visually striking but also deeply meaningful. In addition to his tattooing career, Jeff Gogue is also a respected educator and mentor in the tattoo community. He regularly conducts tattoo seminars, workshops, and online courses, sharing his knowledge and expertise with aspiring tattoo artists around the world. Gogue's work has been featured in numerous tattoo publications and art galleries, and he has received numerous awards and accolades for his contributions to the tattoo industry. He continues to be a prominent and influential figure, admired for his artistic vision, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://cheyennetattoo.com/uploads/media/900x900/05/195-Jeff-Gogue.jpg?v=1-0",
         website: "",
       },
     ],
@@ -260,12 +311,40 @@ const data = [
   },
   {
     title: "FLOWER TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FdmpNLZ",
     description:
       "Flower tattoos are a timeless and versatile form of body art, symbolizing beauty, growth, and various emotions. Popular blooms like roses, lotuses, and cherry blossoms hold diverse meanings. The vibrant colors and intricate details of flower tattoos allow for personalization and expression. Positioned on different body parts, these tattoos are often chosen for their aesthetic appeal and symbolic significance, making them a popular choice for those seeking a visually stunning and meaningful form of self-expression.",
     fullPreDescription:
       "Flower tattoos are a popular and enduring genre of body art that features various floral designs. These tattoos often incorporate different types of flowers, each carrying its own symbolic meaning. Common choices include roses for love, lotuses for purity and enlightenment, lilies for beauty, and cherry blossoms for transience. The vibrant colors and delicate details of flower tattoos allow for artistic expression and personalization. Positioned on different parts of the body, flower tattoos are chosen for their aesthetic appeal and the ability to convey diverse emotions and sentiments.",
     descriptionList: [],
     fullPostDescription: "",
+    tattooHistory: "",
+    artists: [
+      {
+        name: "Sasha Unisex",
+        description:
+          "Sasha Unisex, whose real name is Aleksandra Katsan, is a highly talented tattoo artist known for her distinctive watercolor-style tattoos. Born and raised in Moscow, Russia, Sasha Unisex has gained international recognition for her vibrant and colorful tattoo designs. Sasha Unisex's tattooing style is characterized by its fluid and painterly quality, resembling watercolor paintings. She often incorporates bold colors, abstract shapes, and delicate linework into her designs, creating visually stunning and contemporary tattoos. Sasha Unisex's work frequently features a variety of subjects, including animals, flowers, landscapes, and abstract patterns. She is particularly known for her floral tattoos, which showcase her mastery of color blending and her ability to capture the natural beauty of flowers in a unique and artistic way. In addition to her tattooing career, Sasha Unisex is also a talented illustrator and painter. Her artwork has been exhibited in galleries around the world, further showcasing her creative talent and artistic vision. Sasha Unisex's distinctive style and innovative approach to tattooing have earned her a dedicated following on social media and admiration within the tattoo community. She continues to inspire aspiring tattoo artists and enthusiasts with her bold and colorful designs.",
+        picture: "https://inkppl.com/assets/upload/upload31ac1bf0703511.jpg",
+        website: "",
+      },
+      {
+        name: "Tritoan Ly",
+        description:
+          "Tritoan Ly is a highly talented tattoo artist known for his exceptional skill in creating realistic and intricately detailed tattoos. Based in Los Angeles, California, Tritoan Ly has gained widespread recognition for his stunning portrait work and lifelike depictions of various subjects, including flowers, animals, and mythical creatures. Tritoan Ly's tattooing style is characterized by its meticulous attention to detail, precision, and depth. He is known for his ability to capture the likeness and character of his subjects with remarkable accuracy, using a combination of fine linework, shading, and texture. While Tritoan Ly is renowned for his realistic tattoos, he also incorporates elements of fantasy, surrealism, and symbolism into his designs, creating tattoos that are not only visually striking but also meaningful and thought-provoking. In addition to his tattooing career, Tritoan Ly is also an educator and mentor in the tattoo community. He frequently conducts tattoo seminars, workshops, and online tutorials, sharing his knowledge and expertise with aspiring tattoo artists around the world. Tritoan Ly's work has been featured in various tattoo publications and art galleries, and he has received numerous awards and accolades for his contributions to the tattoo industry. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://inkppl.com/assets/php/files/082020/160820-1723-2699.jpg",
+        website: "",
+      },
+      {
+        name: "Kelly Violet",
+        description:
+          "Kelly Violet is a highly respected tattoo artist known for her elegant and minimalist tattoo designs, particularly her beautiful floral tattoos. Based in London, United Kingdom, Kelly Violet has gained recognition for her ability to create timeless and refined tattoos with a contemporary aesthetic. Kelly Violet's tattooing style is characterized by its fine lines, delicate shading, and intricate details. She often incorporates botanical elements, such as flowers, leaves, and branches, into her designs, creating elegant and understated tattoos that showcase the natural beauty of the subject matter. In addition to her floral tattoos, Kelly Violet is also known for her intricate blackwork and dotwork designs, as well as her geometric and abstract tattoos. Her versatility as an artist allows her to create a wide range of tattoo styles, each executed with precision and skill. Kelly Violet's work has been featured in various tattoo publications and exhibitions, and she has gained a loyal following on social media, where she shares photos of her work and offers insights into her creative process. She continues to be a highly sought-after tattoo artist, admired for her artistic talent, professionalism, and dedication to creating beautiful and meaningful tattoos.",
+        picture:
+          "https://inkppl.com/assets/php/files/032017/13713987_169574496797094_1194798420_n.jpg",
+        website: "",
+      },
+    ],
     id: "5",
     titleImg:
       "https://images.pexels.com/photos/1367996/pexels-photo-1367996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -298,6 +377,8 @@ const data = [
   },
   {
     title: "BLACKWORK TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252F9m2dlK",
     description:
       "Blackwork tattoos are a distinctive style characterized by the predominant use of black ink to create bold, high-contrast designs. Featuring intricate patterns, geometric shapes, and often abstract elements, blackwork focuses on graphic simplicity and symbolism. This versatile and timeless style ranges from minimalist linework to larger, detailed pieces, offering a bold and impactful form of self-expression.",
     fullPreDescription:
@@ -317,9 +398,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Xed Le head",
+        description:
+          "Xed Le Head, also known simply as Xed, is a highly influential tattoo artist based in London, United Kingdom. He is renowned for his avant-garde and innovative approach to tattooing, particularly within the realm of blackwork and geometric tattoos. Xed Le Head's tattooing style is characterized by its intricate geometric patterns, sacred geometry, and spiritual symbolism. He often incorporates bold black ink designs, negative space, and meticulous linework into his tattoos, creating visually stunning and spiritually inspired pieces.  In addition to his tattooing career, Xed Le Head is also a talented painter, sculptor, and musician, with a diverse range of creative interests. He is known for his contributions to the underground art scene and his involvement in various collaborative projects and exhibitions. Xed Le Head's work has been featured in numerous tattoo publications and art galleries around the world, and he has gained a loyal following of admirers and collectors. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic vision, technical skill, and dedication to pushing the boundaries of tattoo artistry.",
+        picture:
+          "https://i2-prod.dailystar.co.uk/incoming/article19392276.ece/ALTERNATES/s1227b/0_httpscdnimagesdailystarcoukdynamic122photos112000900x7381269112",
+        website: "",
+      },
+      {
+        name: "Thomas Hoope",
+        description:
+          "Thomas Hooper is a highly respected tattoo artist known for his intricate and ornate blackwork tattoos. Originally from the United Kingdom, Hooper is currently based in New York City, where he continues to create stunning tattoo designs. Hooper's tattooing style is characterized by its highly detailed and complex patterns, often drawing inspiration from various cultural and religious symbols, as well as traditional tattoo motifs. His designs frequently feature geometric shapes, mandalas, sacred geometry, and intricate linework, creating visually striking and spiritually inspired tattoos. In addition to his blackwork tattoos, Hooper is also known for his expertise in other tattoo styles, including traditional Japanese, dotwork, and fine line tattooing. His versatility as an artist allows him to create a wide range of tattoo designs, each executed with precision and skill. Hooper's work has been featured in numerous tattoo publications and exhibitions, and he has gained a loyal following of admirers and collectors. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2017%2F04%2Fthomas-hooper-tattoo-artist-hypebeast-magazine-interview-0.jpg?w=960&cbr=1&q=90&fit=max",
+        website: "",
+      },
+      {
+        name: "Delaine Neo Gilma",
+        description:
+          "Delaine Neo Gilma, commonly known as Delaine Neo, is a talented tattoo artist based in Singapore. She is recognized for her bold and graphic blackwork tattoos, characterized by intricate linework, negative space, and dramatic contrasts. Delaine Neo's tattooing style often incorporates elements of geometry, nature, and surrealism, resulting in visually striking and dynamic designs. She is known for her meticulous attention to detail and her ability to create tattoos that are both visually captivating and conceptually meaningful. In addition to her tattooing career, Delaine Neo is also a visual artist and illustrator. Her artwork often explores themes of identity, spirituality, and the human experience, reflecting her diverse creative interests and influences. Delaine Neo's work has been featured in various tattoo publications and exhibitions, and she has gained a loyal following of admirers and clients. She continues to push the boundaries of tattoo artistry, creating unique and innovative designs that leave a lasting impression.",
+        picture:
+          "https://spraycity.at/wp-content/uploads/2010/06/neo_jasminschuller726.jpg",
         website: "",
       },
     ],
@@ -355,6 +454,8 @@ const data = [
   },
   {
     title: "GEOMETRIC TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FW9Zbkd",
     description:
       "Geometric tattoos are a modern style characterized by precise lines and shapes, creating visually striking designs. Inspired by geometry and mathematics, these tattoos often feature symmetrical patterns, optical illusions, and sacred geometry elements. Embracing minimalism, they use clean lines and a limited color palette. Geometric tattoos can convey personal meaning or purely aesthetic appeal, with designs ranging from simple polygons to intricate, symmetrical compositions. Popular for their modern and visually impactful nature, these tattoos offer a contemporary form of self-expression.",
     fullPreDescription:
@@ -374,9 +475,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Chaim Machlev",
+        description:
+          "Chaim Machlev, known professionally as Dots to Lines, is a highly acclaimed tattoo artist based in Berlin, Germany. He gained international recognition for his minimalist and intricately detailed geometric tattoos. Machlev's tattooing style is characterized by its precise dotwork and intricate linework, which he uses to create mesmerizing geometric patterns and mandalas. His designs often feature a harmonious blend of geometric shapes, sacred geometry, and minimalist aesthetics, resulting in visually stunning and spiritually inspired tattoos. In addition to his tattooing career, Machlev is also a visual artist and musician. He draws inspiration from a variety of sources, including nature, spirituality, and his own personal experiences, to create tattoos that are both visually captivating and conceptually meaningful. Machlev's work has been featured in numerous tattoo publications and exhibitions, and he has gained a loyal following of admirers and collectors. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://theatlanticdispatch.com/wp-content/uploads/2023/06/Chaim-Machlev-Dotstolines-1-1024x683.jpeg",
+        website: "",
+      },
+      {
+        name: "Roxx",
+        description:
+          "Roxx is a well-known tattoo artist based in Amsterdam, Netherlands. He gained recognition for his bold and graphic geometric tattoos, characterized by intricate patterns, sharp lines, and a contemporary aesthetic.  Roxx's tattooing style often incorporates geometric shapes, sacred geometry, and optical illusions. His designs are visually dynamic and eye-catching, often playing with depth, perspective, and negative space to create captivating tattoos that draw the viewer's attention. In addition to his geometric work, Roxx is also known for his expertise in blackwork and dotwork tattooing. He often combines these techniques with geometric elements to create visually stunning and harmonious compositions. Roxx's work has been featured in various tattoo publications and exhibitions, and he has garnered a dedicated following of admirers and clients. He continues to push the boundaries of tattoo artistry, creating unique and innovative designs that leave a lasting impression.",
+        picture:
+          "https://media.gq.com/photos/55d1fc6d606992214f1ec89a/master/w_1600%2Cc_limit/roxx-tattoos-2.jpg",
+        website: "",
+      },
+      {
+        name: "Corey Divine",
+        description:
+          "Corey Divine is a highly skilled tattoo artist known for his innovative and abstract geometric tattoos. Based in Portland, Oregon, Divine has gained recognition for his unique style, which blends geometric shapes, organic elements, and intricate patterns to create visually stunning tattoos.  Divine's tattooing style is characterized by its bold lines, precise geometric shapes, and intricate dotwork. He often draws inspiration from a variety of sources, including nature, architecture, and sacred geometry, to create tattoos that are both visually striking and conceptually rich. In addition to his geometric work, Divine is also known for his expertise in blackwork and illustrative tattooing. He frequently combines these techniques with geometric elements to create dynamic and visually captivating designs. Divine's work has been featured in numerous tattoo publications and exhibitions, and he has garnered a dedicated following of admirers and clients. He continues to push the boundaries of tattoo artistry, creating innovative and thought-provoking designs that challenge traditional notions of tattooing.",
+        picture:
+          "https://d3vhc53cl8e8km.cloudfront.net/artists/5612/bb079e8c-5c71-11ed-b991-0ee6b8365494.jpg",
         website: "",
       },
     ],
@@ -421,6 +540,8 @@ const data = [
   },
   {
     title: "PHOTO REALISM PORTRAIT TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FwaAbzr",
     description:
       "Photorealism portrait tattoos aim to replicate photographic detail on the skin. Artists use intricate shading and precise linework to capture lifelike features, expressions, and textures. These tattoos can be grayscale or color, with a strong emphasis on light, shadow, and accurate proportions. Typically larger in size and placed on spacious body areas, such as the back or chest, photorealism portraits require expert skill and multiple sessions for meticulous detailing. Popular for commemorating loved ones, these tattoos offer a lasting and realistic tribute through artistry and attention to detail.",
     fullPreDescription:
@@ -440,9 +561,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Nikko Hurtado",
+        description:
+          "Nikko Hurtado is a highly respected tattoo artist known for his exceptional skill in creating realistic and highly detailed tattoos, particularly portrait tattoos. Based in Los Angeles, California, Hurtado has gained international recognition for his mastery of the craft. Hurtado's tattooing style is characterized by its meticulous attention to detail, vibrant colors, and striking realism. He is known for his ability to capture the likeness and personality of his subjects with remarkable accuracy, whether it's a portrait of a loved one, a celebrity, or an iconic figure. In addition to his portrait work, Hurtado is also proficient in various tattoo styles, including black and gray realism, traditional Japanese, and illustrative tattooing. His versatility as an artist allows him to create a wide range of tattoo designs, each executed with precision and skill. Hurtado's work has been featured in numerous tattoo publications and exhibitions, and he has received numerous awards and accolades for his contributions to the tattoo industry. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://www.godsofinktattooconvention.com/wp-content/uploads/2022/09/01_Nikko-Hurtado-USA-@nikkohurtado-e1663235035911.jpg",
+        website: "",
+      },
+      {
+        name: "Steve Butcher",
+        description:
+          "Steve Butcher is a highly acclaimed tattoo artist known for his exceptional skill in creating realistic portrait tattoos, particularly those featuring athletes and sports icons. Based in New Zealand, Butcher has gained international recognition for his stunning tattoo work. Butcher's tattooing style is characterized by its meticulous attention to detail, vibrant colors, and dynamic compositions. He is known for his ability to capture the likeness and personality of his subjects with remarkable accuracy, whether it's a portrait of a basketball player, a boxer, or a soccer star. In addition to his portrait work, Butcher is also proficient in various tattoo styles, including black and gray realism, illustrative tattooing, and Japanese-inspired designs. His versatility as an artist allows him to create a wide range of tattoo designs, each executed with precision and skill. Butcher's work has been featured in numerous tattoo publications and exhibitions, and he has received numerous awards and accolades for his contributions to the tattoo industry. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to the craft of tattooing.",
+        picture:
+          "https://static.wixstatic.com/media/fb3332_1f227b219ec7427fa1362629d1be9146~mv2.jpg/v1/fill/w_560,h_560,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/SB_edited.jpg",
+        website: "",
+      },
+      {
+        name: "Paul Acker",
+        description:
+          "Paul Acker is a highly skilled tattoo artist known for his intricate and surrealistic tattoo designs, particularly in the horror and pop culture genres. Based in Philadelphia, Pennsylvania, Acker has gained international recognition for his unique style and exceptional tattooing skills. Acker's tattooing style is characterized by its dark and eerie themes, often featuring portraits of horror icons, monsters, and surreal imagery. His work is known for its meticulous shading, intricate details, and haunting realism, creating tattoos that are both visually captivating and emotionally evocative. In addition to his horror-themed tattoos, Acker is also proficient in various tattoo styles, including realism, portrait work, and illustrative tattooing. His versatility as an artist allows him to create a wide range of tattoo designs, each executed with precision and creativity. Acker's work has been featured in numerous tattoo publications and exhibitions, and he has received numerous awards and accolades for his contributions to the tattoo industry. He continues to be a highly respected and influential figure in the tattoo community, admired for his artistic talent, technical skill, and dedication to pushing the boundaries of tattoo artistry.",
+        picture:
+          "https://cheyennetattoo.com/uploads/media/900x900/01/681-180628-cheyenne-website-Artists-Quadratisch-Paul-Acker.png?v=1-0",
         website: "",
       },
     ],
@@ -462,6 +601,8 @@ const data = [
   },
   {
     title: "TRIBAL TATTOOS",
+    affLink:
+      "https://go.fiverr.com/visit/?bta=991460&brand=fp&afp=https://www.fiverr.com/s/R1mmlL&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fs%252FY3veez",
     description:
       "Tribal tattoos are a traditional style influenced by indigenous tattooing practices globally. Characterized by bold black lines and abstract patterns, they often hold cultural significance, representing identity, status, or spirituality. Originally placed in specific areas based on cultural customs, modern tribal tattoos are versatile and personalized, drawing inspiration from diverse indigenous designs. While appreciated for their visual impact and symbolism, there's ongoing discourse about cultural appropriation when these designs are adopted without understanding their cultural context.",
     fullPreDescription:
@@ -481,9 +622,27 @@ const data = [
     tattooHistory: "",
     artists: [
       {
-        name: "",
-        description: "",
-        picture: "",
+        name: "Leo Zulueta",
+        description:
+          "Leo Zulueta is a pioneering tattoo artist known for his innovative contributions to the tattoo industry, particularly in the realm of tribal tattooing. Born in the Philippines, Zulueta moved to the United States and became a prominent figure in the Southern California tattoo scene during the 1970s and 1980s.Zulueta is credited with popularizing the 'Tribal Revival' movement in the 1980s, which sought to reinterpret traditional tribal tattoo motifs in a contemporary context. He drew inspiration from various indigenous tattoo traditions around the world, including Polynesian, Native American, and Filipino tribal art. Zulueta's tattooing style is characterized by bold lines, geometric patterns, and cultural symbolism. He often incorporates elements of nature, mythology, and spirituality into his designs, creating tattoos that are both visually striking and culturally significant. In addition to his tattooing career, Zulueta is also an accomplished painter and visual artist. His artwork often explores themes of identity, heritage, and the human experience, reflecting his diverse cultural influences and artistic sensibilities. Zulueta's contributions to the tattoo industry have had a lasting impact, influencing generations of tattoo artists and enthusiasts. He continues to be recognized as a pioneering figure in the world of tattooing, admired for his creativity, innovation, and dedication to preserving and celebrating tribal tattooing traditions.",
+        picture:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Leo_Zulueta_2019_Diana_Kohrs.jpg/1200px-Leo_Zulueta_2019_Diana_Kohrs.jpg",
+        website: "",
+      },
+      {
+        name: "Keone Nunes",
+        description:
+          "Keone Nunes is a highly respected tattoo artist known for his expertise in traditional Polynesian tattooing, particularly the art of hand-tapping. Born and raised in Hawaii, Nunes has dedicated his life to preserving and perpetuating the cultural heritage of Hawaiian tattooing. Nunes is renowned for his mastery of traditional Polynesian tattoo techniques, including hand-tapping, which involves using a small comb-like instrument to manually apply ink to the skin. He specializes in creating intricate and culturally significant tattoos inspired by Hawaiian, Samoan, and Maori traditions. In addition to his tattooing skills, Nunes is also deeply knowledgeable about the cultural significance of Polynesian tattooing practices. He has studied the history and symbolism of traditional Hawaiian tattoos, as well as the protocols and rituals associated with the tattooing process. Nunes is considered a cultural practitioner and advocate for the revival of traditional Polynesian tattooing in Hawaii. He has mentored numerous aspiring tattoo artists and has played a key role in raising awareness about the importance of preserving indigenous tattooing traditions. Nunes's work has garnered international recognition, and he has tattooed clients from around the world who seek out his expertise in traditional Polynesian tattooing. He continues to be a respected figure in the tattoo community, admired for his dedication to cultural preservation and his skill as a master tattoo artist.",
+        picture:
+          "https://www.americanindianmagazine.org/sites/default/files/styles/max_1300x1300/public/2024-03/Keone_Nunes_gallery.jpg?itok=Ix5m-brg",
+        website: "",
+      },
+      {
+        name: "Mike Dorsey",
+        description:
+          "Mike Dorsey is a talented tattoo artist known for his bold and intricate tattoo designs, particularly in the realm of tribal and geometric tattooing. Based in San Francisco, California, Dorsey has gained recognition for his unique style and meticulous attention to detail. Dorsey's tattooing style often incorporates elements of traditional tribal motifs, geometric patterns, and cultural symbolism. His designs are characterized by their bold lines, intricate details, and dynamic compositions, creating tattoos that are visually striking and conceptually rich. In addition to his tribal and geometric work, Dorsey is also proficient in various tattoo styles, including blackwork, dotwork, and illustrative tattooing. His versatility as an artist allows him to create a wide range of tattoo designs, each executed with precision and creativity. Dorsey's work has been featured in various tattoo publications and exhibitions, and he has garnered a dedicated following of admirers and clients. He continues to push the boundaries of tattoo artistry, creating innovative and impactful designs that leave a lasting impression.",
+        picture:
+          "https://i2.wp.com/www.legacytattooacademy.com/wp-content/uploads/2022/02/2022-01-06-20.46.57.jpeg",
         website: "",
       },
     ],

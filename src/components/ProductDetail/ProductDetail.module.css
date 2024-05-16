@@ -1,11 +1,17 @@
 .box {
-  display: block;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
   padding-bottom: 24px;
 }
 @media screen and (min-width: 680px) {
   .listArtist:nth-child(2n) > div {
-    display: flex;
     flex-direction: row-reverse;
+  }
+}
+@media screen and (min-width: 680px) {
+  .listArtist > div {
+    flex-direction: row;
   }
 }
 .wrapper {
@@ -16,12 +22,8 @@
   padding: 24px;
   margin: 0 auto;
 }
-
-.border {
-  width: 100%;
-  border: 1px rgb(255, 255, 255) solid;
-  border-radius: 1px;
-  margin-bottom: 16px;
+.orderBtn {
+  border: 2px solid grey;
 }
 
 @media screen and (min-width: 680px) {
@@ -34,22 +36,34 @@
     max-width: 932px;
   }
 }
+.border {
+  width: 100%;
+  border: 1px rgb(255, 255, 255) solid;
+  border-radius: 1px;
+  margin-bottom: 16px;
+}
 .arrowLink {
   fill: #fff;
   width: 32px;
   height: 32px;
 }
-.arrowLink:hover {
-  stroke: #686767;
-  stroke-width: 3px;
-  transition: 0.25s ease;
-
+.listArtistName:hover .arrowLink {
+  fill: #0c0909;
+  text-shadow: 2px 2px 4px #1f1d1d;
+  transition: 0.4s ease;
 }
 .title {
+  text-align: center;
   color: #fff;
 }
 .description {
   color: #fff;
+}
+
+@media screen and (min-width: 680px) {
+  .description {
+    padding: 0 16px;
+  }
 }
 .historyTitle {
   color: #fff;
@@ -57,22 +71,23 @@
 .img {
   padding: 0;
   width: 100%;
+  height: fit-content;
   max-width: 400px;
 }
 .listArtist {
   list-style-type: none;
 }
 .listArtistName {
+  min-width: 64px;
+  text-align: center;
   list-style-type: none;
   margin-bottom: 16px;
-    text-transform: uppercase;
-    position: relative;
-    z-index: 1;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
   transition: 0.4s ease;
 }
 .linkArtist {
-  /* text-transform: uppercase;
-    position: relative; */
   margin: 16px 0 0 0;
   padding: 8px 4px 8px 4px;
   width: 100%;
@@ -85,10 +100,8 @@
   line-height: 22px;
   text-align: center;
   text-decoration: none;
-  /* z-index: 1;
-  transition: 0.4s ease; */
 }
-.linkArtist:hover {
+.listArtistName:hover .linkArtist {
   color: #1f1d1d;
   text-shadow: 2px 2px 4px #1f1d1d;
   transition: 0.4s ease;
